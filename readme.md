@@ -2,12 +2,8 @@
 
 Introduktion til numerisk metode og raketter med python.
 
-### Indholdsfortegnelse
-* [Begævelse uden tyngdekraft.](https://mpsteenstrup.github.io/raketter/uden_tyngdekraft)
-* [Bevægelse med tyngdekraft.](https://mpsteenstrup.github.io/raketter/med_tyngdekraft)
-* [Bevægelse med atmosfære.](https://mpsteenstrup.github.io/raketter/med_luftmodstand)
 
-
+[Simulering af raketligningen](https://mpsteenstrup.github.io/raketter/raketligningen)
 
 
 Mads Peter H. Steenstrup, Rysensteen Gymnasium, 2026, 
